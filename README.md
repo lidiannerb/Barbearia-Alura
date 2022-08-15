@@ -55,4 +55,4 @@ Este projeto foi desenvolvido durante o Bootcamp da Laboratória, Turma 007 pela
 
 - [Lidianne Barbosa](https://www.linkedin.com/in/lromao/)
 
-![Lidianne](assets/readme/lidianne%20(2).jpg)
+![Lidianne](assets/readme/lidianne%20(3).jpg)
