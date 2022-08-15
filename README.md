@@ -8,8 +8,8 @@
 - [2. Acesso](#2-acesso)
 - [3. Descrição](#3-descricao)
 - [4. Planejamento](#4-planejamento)
-- [8. Tecnologias utilizadas](#8-tecnologias-utilizadas)
-- [9. Pessoas desenvolvedoras](#9-pessoas-desenvolvedoras)
+- [5. Tecnologias utilizadas](#8-tecnologias-utilizadas)
+- [6. Pessoas desenvolvedoras](#9-pessoas-desenvolvedoras)
 
 ## 1. Status do projeto
 
@@ -39,21 +39,20 @@ Desenvolver um página Web
 
 ## 4. Planejamento
 
+Fizemos o planejamento de estudos do curso no Trello.
 
 ![Planejamento](assets/readme/planejamento-oracle.JPG.png)
 
-
-
-## 8. Tecnologias utilizadas
+## 5. Tecnologias utilizadas
 
 - HTML 5
 - CSS
 - Node.JS
 
-## 9. Pessoas desenvolvedoras
+## 6. Pessoas desenvolvedoras
 
 Este projeto foi desenvolvido durante o Bootcamp da Laboratória, Turma 007 pelas colaboradoras: 
 
 - [Lidianne Barbosa](https://www.linkedin.com/in/lromao/)
 
-![Lidianne](src/img/Lidianne.JPG)
+![Lidianne](assets/readme/lidianne%20(2).jpg)
